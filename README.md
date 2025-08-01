@@ -10,7 +10,7 @@ It showcases:
 - A simple **Mini Player** that sits above the tab bar
 - Modern toolbar and tab bar behaviors like auto-minimizing and accessory views
 
-![DesignExploration](DesignExplorationVideo.mp4)
+![DesignExploration](DesignExplorationVideo-rounded.gif)
 
 ---
 
